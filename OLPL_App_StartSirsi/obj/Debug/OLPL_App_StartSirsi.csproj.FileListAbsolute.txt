@@ -1,0 +1,6 @@
+T:\Projects\OLPL_App_StartSirsi\OLPL_App_StartSirsi\bin\Debug\OLPL_App_StartSirsi.exe.config
+T:\Projects\OLPL_App_StartSirsi\OLPL_App_StartSirsi\bin\Debug\OLPL_App_StartSirsi.exe
+T:\Projects\OLPL_App_StartSirsi\OLPL_App_StartSirsi\bin\Debug\OLPL_App_StartSirsi.pdb
+T:\Projects\OLPL_App_StartSirsi\OLPL_App_StartSirsi\obj\Debug\OLPL_App_StartSirsi.csprojResolveAssemblyReference.cache
+T:\Projects\OLPL_App_StartSirsi\OLPL_App_StartSirsi\obj\Debug\OLPL_App_StartSirsi.exe
+T:\Projects\OLPL_App_StartSirsi\OLPL_App_StartSirsi\obj\Debug\OLPL_App_StartSirsi.pdb
